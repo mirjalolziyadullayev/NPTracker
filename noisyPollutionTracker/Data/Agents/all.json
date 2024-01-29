@@ -1,0 +1,87 @@
+[
+  {
+    "Id": 1,
+    "Firstname": "Javlon",
+    "Lastname": "Java",
+    "DiscoveredCities": [
+      {
+        "id": 23,
+        "name": "Kinshasa",
+        "country": "Democratic Republic of the Congo",
+        "population": 14900000.0,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+          "Brazzaville",
+          "Matadi",
+          "Mbuji-Mayi"
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Kyoto",
+        "country": "Japan",
+        "population": 1474570.0,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+          "Osaka",
+          "Nara",
+          "Kobe"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Bogotá",
+        "country": "Colombia",
+        "population": 7225000.0,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+          "Medellín",
+          "Cali",
+          "Barranquilla"
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Bristol",
+        "country": "England",
+        "population": 617280.0,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+          "Bath",
+          "Gloucester",
+          "Cardiff"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Kinshasa",
+        "country": "Democratic Republic of the Congo",
+        "population": 14900000.0,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+          "Brazzaville",
+          "Matadi",
+          "Mbuji-Mayi"
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Firstname": "123",
+    "Lastname": "asd",
+    "DiscoveredCities": []
+  },
+  {
+    "Id": 3,
+    "Firstname": "asd",
+    "Lastname": "asd",
+    "DiscoveredCities": []
+  },
+  {
+    "Id": 4,
+    "Firstname": "asd",
+    "Lastname": "asd",
+    "DiscoveredCities": []
+  }
+]
